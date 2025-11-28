@@ -42,8 +42,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `firstname`, `lastname`, `photo`, `created_on`) VALUES
-(1, 'crce', '$2y$10$kLqXG4BAJrPbsOjJ/.B4eeZn6oojNhAb8l5/cb9eZvFnYU.pz2qni', 'CRCE', 'Admin', 'WhatsApp Image 2021-05-27 at 17.55.34.jpeg', '2018-04-02');
-
+(1, 'gyan', 'asdfghjkl', 'GYAN', 'Admin', 'WhatsApp Image 2025-11-28 at 7.05.54 AM.jpeg', '2082-08-12');
 -- --------------------------------------------------------
 
 --
